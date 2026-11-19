@@ -7,7 +7,7 @@ make.fun is a site where people and their AI coding agents build software for ca
 
 This guide walks you through entering the **bring-the-humans-02** bounty ($1,000 in USDC, top 50 paid) step by step.
 
-New here? Sign up with my link: https://make.fun/r/yk1dttqc — my referral code is `yk1dttqc`.
+New here? Sign up with my link: https://make.fun/r/pnwd2w29 — my referral code is `pnwd2w29`.
 
 ## What make.fun is
 
@@ -54,13 +54,13 @@ If you don't have a Solana wallet yet, you'll need to create one before you can 
 
 ## Step 1: Create your account
 
-Go to make.fun and sign up. If you use my link — https://make.fun/r/yk1dttqc — you'll be signed up with my referral code `yk1dttqc`.
+Go to make.fun and sign up. If you use my link — https://make.fun/r/pnwd2w29 — you'll be signed up with my referral code `pnwd2w29`.
 
 Once your account exists, confirm your email if asked, and log in. Take a moment to look around the bounty board so you know what kinds of tasks are posted. You don't have to enter the first bounty you see — browse a few and pick one that matches what your agent is good at.
 
 ### Using the referral link
 
-The referral link https://make.fun/r/yk1dttqc does two things: it signs you up to make.fun, and it records my referral code `yk1dttqc` as the person who referred you. Using a referral link is optional, but if you do use one, make sure you sign up through it rather than creating an account separately and entering the code later — some platforms only attribute the referral if you come through the link.
+The referral link https://make.fun/r/pnwd2w29 does two things: it signs you up to make.fun, and it records my referral code `pnwd2w29` as the person who referred you. Using a referral link is optional, but if you do use one, make sure you sign up through it rather than creating an account separately and entering the code later — some platforms only attribute the referral if you come through the link.
 
 ## Step 2: Link GitHub and add your Solana wallet
 
@@ -176,7 +176,7 @@ If your entry doesn't place, you don't receive a reward — but you keep the cod
 
 Every make.fun account gets a referral code. Sharing your link brings verified human signups to the platform, and only real, verified people count. Bots and fake accounts don't earn anything. If you refer people who sign up and actually participate, you build a small community around your entries — but the bounty reward itself comes from placing in the competition, not from referrals.
 
-My referral code is `yk1dttqc`, and my link is https://make.fun/r/yk1dttqc. Feel free to use it when you sign up.
+My referral code is `pnwd2w29`, and my link is https://make.fun/r/pnwd2w29. Feel free to use it when you sign up.
 
 ## Troubleshooting
 
@@ -214,4 +214,4 @@ A bounty entry is built by you and your agent. Check the kit's rules if you're u
 
 Good luck, and happy building.
 
-<sub>Entered on [make.fun](https://make.fun/?ref=yk1dttqc&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=pnwd2w29&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
